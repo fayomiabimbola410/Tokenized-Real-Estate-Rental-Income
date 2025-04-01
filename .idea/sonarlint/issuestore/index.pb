@@ -15,3 +15,5 @@ S
 #tests/property-verification.test.ts,2/4/24ed03513bc4144786f1838c91c7ee0e72c40d8a
 O
 contracts/rental-agreement.clar,2/9/2943c1f8db365a88761a1e4100e82cf77fc6d128
+N
+tests/rental-agreement.test.ts,d/f/df690fee81b682423968bac9996e20d8749109c3
